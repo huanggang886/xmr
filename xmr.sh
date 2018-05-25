@@ -23,3 +23,26 @@ cmake . -DCUDA_ENABLE=OFF -DOpenCL_ENABLE=OFF
 make install
 
 cd bin/
+
+./xmr-stak  #运行程序
+
+0
+
+monero7
+
+pool.supportxmr.com:3333
+
+46dQ3S73Vi5j55H9ptssUMHH2QUihuju21bK4aJNS5DVddqGnwmJWtDFf8tRmUEqNMMD3Uzo4zpLVKH8HNPWBWvzDwWc1mu
+
+dtext
+
+dext
+
+n
+
+n
+
+n
+
+
+screen ./xmr-stak
