@@ -25,21 +25,21 @@ make install
 cd bin/
 
 ./xmr-stak  #运行程序
-
-echo -e "\n" | 0
-
-echo -e "\n" | monero7
-
-echo -e "\n" | pool.supportxmr.com:3333
-
-echo -e "\n" | 46dQ3S73Vi5j55H9ptssUMHH2QUihuju21bK4aJNS5DVddqGnwmJWtDFf8tRmUEqNMMD3Uzo4zpLVKH8HNPWBWvzDwWc1mu
-
-echo -e "\n" | 123
-
-echo -e "\n" | 123
-
-echo -e "\n" | n
-
-echo -e "\n" | n
-
-echo -e "\n" | n
+0
+echo -e "\n"
+monero7
+echo -e "\n"
+pool.supportxmr.com:3333
+echo -e "\n"
+46dQ3S73Vi5j55H9ptssUMHH2QUihuju21bK4aJNS5DVddqGnwmJWtDFf8tRmUEqNMMD3Uzo4zpLVKH8HNPWBWvzDwWc1mu
+echo -e "\n"
+123
+echo -e "\n"
+123
+echo -e "\n"
+n
+echo -e "\n"
+n
+echo -e "\n"
+n
+echo -e "\n"
